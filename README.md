@@ -1,4 +1,4 @@
-# Practica-N-1-DBA-PostgeSQL
+# Práctica Nº 1 DBA PostgeSQL
 
 Maestría en Software Libre v1
 
